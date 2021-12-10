@@ -1,0 +1,5 @@
+http://sample.li/eiffel.jpg	["tag1", "tag2"]	{"meta1_key": "meta1_value", "meta2_key": "meta2_value"}
+http://sample.li/flat.jpg	["tag1", "tag2"]	{"meta1_key": "meta1_value", "meta2_key": "meta2_value"}
+http://sample.li/birds.jpg	["tag1", "tag2"]	{"meta1_key": "meta1_value", "meta2_key": "meta2_value"}
+http://sample.li/frog.png	["tag1", "tag2"]	{"meta1_key": "meta1_value", "meta2_key": "meta2_value"}
+http://sample.li/fodler/subfolder/hotel.jpg	["tag1", "tag2"]	{"meta1_key": "meta1_value", "meta2_key": "meta2_value"}
